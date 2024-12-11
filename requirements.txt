@@ -8,3 +8,6 @@ ipywidgets
 IPython
 voila
 ipympl
+notebook
+widgetsnbextension
+jupyterlab_widgets
