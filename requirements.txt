@@ -1,0 +1,10 @@
+yfinance
+pandas
+matplotlib
+numpy
+statsmodels
+scipy
+ipywidgets
+IPython
+voila
+ipympl
