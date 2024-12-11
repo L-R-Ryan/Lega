@@ -1,6 +1,6 @@
 #!/bin/bash
-# Install dependencies
-pip install -r requirements.txt
+# Ensure all required packages are installed, including notebook
+pip install notebook widgetsnbextension ipympl
 
 # Enable widgets and ipympl extensions
 jupyter nbextension enable --py widgetsnbextension --sys-prefix
