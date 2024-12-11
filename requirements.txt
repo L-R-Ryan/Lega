@@ -11,3 +11,5 @@ ipympl
 notebook
 widgetsnbextension
 jupyterlab_widgets
+jupyter_bokeh
+jupyter
