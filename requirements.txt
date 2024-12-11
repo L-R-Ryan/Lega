@@ -4,12 +4,14 @@ matplotlib
 numpy
 statsmodels
 scipy
-ipywidgets
 IPython
 voila
 ipympl
-notebook
-widgetsnbextension
+notebook==6.5.4
+ipywidgets==7.6.5
+widgetsnbextension==3.5.2
+ipympl==0.9.3
+jupyter_contrib_nbextensions
 jupyterlab_widgets
 jupyter_bokeh
 jupyter
